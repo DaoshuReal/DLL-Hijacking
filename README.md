@@ -16,7 +16,8 @@ The `Build` folder contains subdirectories for various target applications:
 ├── Discord/
 ├── Epicgames/
 ├── Firefox/
-└── Steam/```
+└── Steam/
+```
 
 Each subfolder contains a DLL named and structured to match a specific DLL expected by that application. Although the DLLs contain the same payload, they are renamed and intended to be used in different directory paths to trigger hijacking.
 
