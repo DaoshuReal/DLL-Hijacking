@@ -10,7 +10,8 @@ This project is a proof-of-concept demonstrating **DLL Hijacking** vulnerabiliti
 
 The `Build` folder contains subdirectories for various target applications:
 
-```Build/
+```
+Build/
 ├── Brave/
 ├── Chrome/
 ├── Discord/
